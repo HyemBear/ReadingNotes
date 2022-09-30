@@ -38,7 +38,7 @@ const stateType = new Map([
 |   /    |            《深入理解 TypeScript》            |   1   |     /      |
 |   /    |           《计算机是怎样跑起来的》            |   1   |     /      |
 |   /    |          《JavaScript 高效图形编程》          |   1   |     /      |
-|   /    |       《JavaScript 设计模式与开发实践》       |   1   |     /      |
+| 220930 |       《JavaScript 设计模式与开发实践》       |   5   | 用了才知道 |
 |   /    |       《你不知道的 JavaScript（上卷）》       |   1   |     /      |
 |   /    |       《你不知道的 JavaScript（中卷）》       |   1   |     /      |
 |   /    |       《你不知道的 JavaScript（下卷）》       |   1   |     /      |
